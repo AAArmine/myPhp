@@ -1,0 +1,74 @@
+.ok{
+			color: #81de26ed;
+			font-weight: bold;
+			font-size: 20px;
+			padding-top: 25px;
+		}
+		
+		.button{
+			background-color: #3a2c9a;
+			width: 250px;
+			color: white;
+			padding: 10px;
+			border: none;
+		}
+		.button:hover{
+			background-color: grey;
+		}
+		.image{
+			width:100px;
+			
+		}
+		td {
+			height: 170px;
+			vertical-align: middle;
+			}
+		
+		
+		table th {
+			background-color: #81de26ed;
+		}
+
+		table tr {
+			background-color: #ddd;
+
+
+		}
+		tr:nth-child(even) {
+			background-color: #f2f2f2;
+		}
+		table tr:hover {
+			background-color: #b0abf7;
+		}
+		.table{
+			border-collapse: collapse;
+			margin-top: 50px;
+			margin-bottom: 50px;
+		}
+		
+		label{
+			margin-right: 15px; 
+		}
+		
+		.submit{
+			background-color: #81de26ed;
+			width: 150px;
+			padding: 10px;
+			border: none;
+			box-shadow: 2px 2px 3px;
+		}
+		.submit:hover, .divV:hover{
+			background-color: grey;
+			box-shadow: none;
+		}
+		.divV{
+			background-color: #81de26ed;
+			border: none;
+			box-shadow: 2px 2px 3px;
+		}
+		.ym{
+			color: #52a005;
+			font-weight: 600;
+			font-size: 18px;
+
+		}
